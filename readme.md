@@ -1,9 +1,9 @@
 <h1 align="center">Proyecto Amigo Secreto</h1>
 
-## :hourglass_flowing_sand: Estado del Proyecto
+## :chart_with_upwards_trend: Estado del Proyecto
 
 <p align="left">
-   <img src="https://img.shields.io/badge/ESTADO-PRIMERA%20VERSION%20PRODUCCION-blue"> :confetti_ball:
+   <img src="https://img.shields.io/badge/ESTADO-PRIMERA%20VERSION%20PRODUCCION-blue">
 </p>
 
 ## :satellite: Descripción
@@ -18,5 +18,7 @@ Es una página web que permitirá ingresar una lista de amigos, para luego sorte
   * Genera número aleatorio (considerando la cantidad de amigos agregados)
   * Muestra amigo sorteado
 
-## :pencil: Tecnologías utilizadas
+## :wrench: Tecnologías utilizadas
 * Javascript
+* HTML
+* CSS
